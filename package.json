@@ -1,0 +1,16 @@
+{
+  "name": "acf-blocks",
+  "version": "1.0.0",
+  "description": "ACF Blocks Practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "author": "Imokol Faith Ruth",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^27.0.0"
+  }
+}
